@@ -51,7 +51,7 @@ The goal of this project is to analyze and interpret booking and operational dat
 
 1. **Clone the Repository**:
     ```bash
-    git clone https://github.com/your-username/AtliQ-Hotels-Analysis.git
+    git clone https://github.com/Nayan-2303/AtliQ-Hotels-Analysis.git
     cd AtliQ-Hotels-Analysis
     ```
 
