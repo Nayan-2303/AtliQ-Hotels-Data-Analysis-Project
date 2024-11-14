@@ -61,7 +61,7 @@ The goal of this project is to analyze and interpret booking and operational dat
     ```
 
 3. **Run the Jupyter Notebook**:
-    Open and execute `exercise_solution.ipynb` to follow the analysis.
+    Open and execute `AtliQ Hospitality Data Analysis Project.ipynb` to follow the analysis.
 
 ---
 
