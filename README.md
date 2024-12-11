@@ -78,9 +78,15 @@ The analysis utilizes the following datasets:
 ## Key Business Questions
 
 This project answers key questions such as:
-1. Which room types and hotels are most profitable?
-2. What are the peak booking periods?
-3. What are the main factors influencing customer booking behavior?
 
----
+- 🌟 What is the average occupancy rate in each of the room categories?  
+- 🏙️ What is the average occupancy rate per city?  
+- 📅 When was the occupancy better, on weekdays or weekends?  
+- 🌍 What is the occupancy for different cities in the month of June?  
+- 📊 How can we append the new data for the month of August to the existing data?  
+- 💰 What is the revenue realized per city?  
+- 📅 What is the month-by-month revenue?  
+- 🏨 What is the revenue realized per hotel type?  
+- 🌆 What is the average rating per city?  
+- 📈 What does the pie chart of revenue realized per booking platform look like?
 
