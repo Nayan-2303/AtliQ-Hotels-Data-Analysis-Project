@@ -83,7 +83,6 @@ This project answers key questions such as:
 - 🏙️ What is the average occupancy rate per city?  
 - 📅 When was the occupancy better, on weekdays or weekends?  
 - 🌍 What is the occupancy for different cities in the month of June?  
-- 📊 How can we append the new data for the month of August to the existing data?  
 - 💰 What is the revenue realized per city?  
 - 📅 What is the month-by-month revenue?  
 - 🏨 What is the revenue realized per hotel type?  
